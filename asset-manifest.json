@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mathematician/static/css/main.023fe693.chunk.css",
+    "main.js": "/mathematician/static/js/main.0dd8d647.chunk.js",
+    "main.js.map": "/mathematician/static/js/main.0dd8d647.chunk.js.map",
+    "runtime-main.js": "/mathematician/static/js/runtime-main.2ae54afb.js",
+    "runtime-main.js.map": "/mathematician/static/js/runtime-main.2ae54afb.js.map",
+    "static/js/2.ad1039b0.chunk.js": "/mathematician/static/js/2.ad1039b0.chunk.js",
+    "static/js/2.ad1039b0.chunk.js.map": "/mathematician/static/js/2.ad1039b0.chunk.js.map",
+    "index.html": "/mathematician/index.html",
+    "static/css/main.023fe693.chunk.css.map": "/mathematician/static/css/main.023fe693.chunk.css.map",
+    "static/js/2.ad1039b0.chunk.js.LICENSE.txt": "/mathematician/static/js/2.ad1039b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ae54afb.js",
+    "static/js/2.ad1039b0.chunk.js",
+    "static/css/main.023fe693.chunk.css",
+    "static/js/main.0dd8d647.chunk.js"
+  ]
+}
