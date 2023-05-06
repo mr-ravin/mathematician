@@ -1,21 +1,13 @@
 {
   "files": {
-    "main.css": "/mathematician/static/css/main.023fe693.chunk.css",
-    "main.js": "/mathematician/static/js/main.75ad0897.chunk.js",
-    "main.js.map": "/mathematician/static/js/main.75ad0897.chunk.js.map",
-    "runtime-main.js": "/mathematician/static/js/runtime-main.69fa7cc4.js",
-    "runtime-main.js.map": "/mathematician/static/js/runtime-main.69fa7cc4.js.map",
-    "static/js/2.bca2c160.chunk.js": "/mathematician/static/js/2.bca2c160.chunk.js",
-    "static/js/2.bca2c160.chunk.js.map": "/mathematician/static/js/2.bca2c160.chunk.js.map",
+    "main.css": "/mathematician/static/css/main.1bcd8da1.css",
+    "main.js": "/mathematician/static/js/main.425e6fc2.js",
     "index.html": "/mathematician/index.html",
-    "static/css/main.023fe693.chunk.css.map": "/mathematician/static/css/main.023fe693.chunk.css.map",
-    "static/js/2.bca2c160.chunk.js.LICENSE.txt": "/mathematician/static/js/2.bca2c160.chunk.js.LICENSE.txt",
-    "static/media/A_Theorem_on_Numbers_of_the_Form_10^x.6ce02303.pdf": "/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10^x.6ce02303.pdf"
+    "main.1bcd8da1.css.map": "/mathematician/static/css/main.1bcd8da1.css.map",
+    "main.425e6fc2.js.map": "/mathematician/static/js/main.425e6fc2.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.69fa7cc4.js",
-    "static/js/2.bca2c160.chunk.js",
-    "static/css/main.023fe693.chunk.css",
-    "static/js/main.75ad0897.chunk.js"
+    "static/css/main.1bcd8da1.css",
+    "static/js/main.425e6fc2.js"
   ]
 }
