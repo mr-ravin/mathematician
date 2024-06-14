@@ -20,11 +20,6 @@ render(){
           <br/><br/>
           2<sup>(10⌊x/3⌋+4((x mod 3) mod 2)+7⌊(x mod 3)/2⌋)</sup> &gt; 10<sup>x</sup>  ; ∀ x ∈ Z<sup>+</sup>. Here, x is any positive integer.
           </p>
-          <p align="justify">
-          <u><i>Application of the theorem:</i></u><br/>
-          For a digital computer, this theorem can instantaneously calculate the number of bits that can store 10<sup>x</sup> number, as this theorem does not rely on logarithm. Although logarithm can provide exact number of bits, but calculating logarithm for larger numbers is very time consuming process, even for computers.
-          <br/>In a scenario where large data is generated per minute, calculating storage capacity for this generated data using logarithm will be time consuming. In this scenario, we found application of this theorem, as the 10⌊x/3⌋+4((x mod 3) mod 2)+7⌊(x mod 3)/2⌋ bits will always be able to store 10<sup>x</sup> number.
-          </p>
           <p align="justify"><b>Cite as:</b> Ravin Kumar (2021). A Theorem on Numbers of the Form 10<sup>x</sup>. International Journal of Pure and Applied Mathematics Research, 1(1), 1-3. doi: 10.51483/IJPAMR.1.1.2021.55-57.</p>
           <p align="justify"><b>Github repository</b>: <a href = "https://github.com/mr-ravin/theorem10">https://github.com/mr-ravin/theorem10</a></p>
           <br/>
