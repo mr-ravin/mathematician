@@ -2,7 +2,7 @@ Mathematician's Life
 ---- 
 <p align="justify">
 <ol>
-     <li><a href={PaperTheorem10} className="colorset" target="_blank" rel="noopener noreferrer"><b>A Theorem on Numbers of the Form 10<sup>x</sup></b></a>,<br/>
+     <li><a href="https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf" className="colorset" target="_blank" rel="noopener noreferrer"><b>A Theorem on Numbers of the Form 10<sup>x</sup></b></a>,<br/>
       DOI Number: <a href="https://doi.org/10.51483/IJPAMR.1.1.2021.55-57">10.51483/IJPAMR.1.1.2021.55-57</a>
           <p align="justify"><b> Abstract:</b> Number theory is one of the core branches of pure mathematics. It has played an important role in the study of natural numbers. In this paper, we are presenting a theorem on the numbers of form 10<sup>x</sup>, where x ∊ Z<sup>+</sup>. The proposed theorem have a major application in computer science. It can be used to predict ‘n’ bits which will always represent more than 10<sup>x</sup> total numbers. We proved that the nature of the ‘n’ bits is always one of the forms 10i, 10i + 4, or 10i + 7, where i ∊ Z<sup>+</sup>. 
           </p>
@@ -18,12 +18,12 @@ Mathematician's Life
      <ol>
      <li>Published paper: <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf">click here</a></li>
      <li>Published paper (DOI Link): <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.51483/IJPAMR.1.1.2021.55-57">click here</a></li>
-     <li>Fetch paper from github: <a target="_blank" rel="noopener noreferrer" href={PaperTheorem10}>click here</a></li>
+     <li>Fetch paper from github: <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf">click here</a></li>
      <li>Github repository: <a target="_blank" rel="noopener noreferrer" href="https://github.com/mr-ravin/theorem10">source code</a></li>
      </ol>
      </p>      
     </li>
-     <li><a href={PaperTheoremArcs} className="colorset" target="_blank" rel="noopener noreferrer"><b>Theorems for Arcs of Different Circles having Same Arc-Angles with Application in Concave and Convex Structures</b></a>,<br/>
+     <li><a href="https://mr-ravin.github.io/mathematician/static/media/TheoremsForArcsOfDifferentCircles.3d3f1b808d7cc9312931.pdf" className="colorset" target="_blank" rel="noopener noreferrer"><b>Theorems for Arcs of Different Circles having Same Arc-Angles with Application in Concave and Convex Structures</b></a>,<br/>
           DOI Number: <a href="https://www.svedbergopen.com/files/1686285460_3_IJPAMR202208151658IN_(46-51).pdf">10.51483/IJPAMR.3.1.2023.46-51</a>
           <p align="justify"><b> Abstract:</b> Arcs are one of the fundamental concepts of circles and are also used in real-life objects such as bridges, jewelleries, buildings, tools etc. In this paper we have proposed theorems for arcs of different circles having the same arc-angles. The proposed theorems have applications in concave/convex surfaces such as lenses and mirrors, buildings, infrastructures, bridges, jewelleries, and mechanical tools such as a sickle.</p>
           <p align="justify">
@@ -67,7 +67,7 @@ Mathematician's Life
      <ol>
      <li>Published paper: <a target="_blank" rel="noopener noreferrer" href="https://www.svedbergopen.com/files/1686285460_3_IJPAMR202208151658IN_(46-51).pdf">click here</a></li>
      <li>Published paper (DOI Link): <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.51483/IJPAMR.3.xx.2023.46-51">click here</a></li>
-     <li>Fetch paper from github: <a target="_blank" rel="noopener noreferrer" href={PaperTheoremArcs}>click here</a></li>
+     <li>Fetch paper from github: <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/mathematician/static/media/TheoremsForArcsOfDifferentCircles.3d3f1b808d7cc9312931.pdf">click here</a></li>
      </ol>
      </p>      
      </li>
