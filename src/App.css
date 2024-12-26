@@ -1,0 +1,15 @@
+.middle {
+  position: absolute;
+  left: 20%;
+  right: 21%;
+  color: black;
+}
+
+.colorset{
+color: black ;
+}
+.algn{
+position:fixed;
+right:0;
+float:right;
+}
