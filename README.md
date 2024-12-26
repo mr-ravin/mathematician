@@ -1,6 +1,7 @@
 Mathematician's Life
 ---- 
 <p align="justify">
+<ol>
      <li><a href={PaperTheorem10} className="colorset" target="_blank" rel="noopener noreferrer"><b>A Theorem on Numbers of the Form 10<sup>x</sup></b></a>,<br/>
       DOI Number: <a href="https://doi.org/10.51483/IJPAMR.1.1.2021.55-57">10.51483/IJPAMR.1.1.2021.55-57</a>
           <p align="justify"><b> Abstract:</b> Number theory is one of the core branches of pure mathematics. It has played an important role in the study of natural numbers. In this paper, we are presenting a theorem on the numbers of form 10<sup>x</sup>, where x ∊ Z<sup>+</sup>. The proposed theorem have a major application in computer science. It can be used to predict ‘n’ bits which will always represent more than 10<sup>x</sup> total numbers. We proved that the nature of the ‘n’ bits is always one of the forms 10i, 10i + 4, or 10i + 7, where i ∊ Z<sup>+</sup>. 
@@ -70,4 +71,5 @@ Mathematician's Life
      </ol>
      </p>      
      </li>
+</ol>
 </p>
