@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mathematician/static/css/main.1579e240.css",
-    "main.js": "/mathematician/static/js/main.f67bc9fc.js",
+    "main.js": "/mathematician/static/js/main.d391f111.js",
     "static/js/488.31fdd81f.chunk.js": "/mathematician/static/js/488.31fdd81f.chunk.js",
     "static/media/TheoremsForArcsOfDifferentCircles.pdf": "/mathematician/static/media/TheoremsForArcsOfDifferentCircles.3d3f1b808d7cc9312931.pdf",
     "static/media/A_Theorem_on_Numbers_of_the_Form_10^x.pdf": "/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10^x.81d467c69abaacb62887.pdf",
     "index.html": "/mathematician/index.html",
     "main.1579e240.css.map": "/mathematician/static/css/main.1579e240.css.map",
-    "main.f67bc9fc.js.map": "/mathematician/static/js/main.f67bc9fc.js.map",
+    "main.d391f111.js.map": "/mathematician/static/js/main.d391f111.js.map",
     "488.31fdd81f.chunk.js.map": "/mathematician/static/js/488.31fdd81f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1579e240.css",
-    "static/js/main.f67bc9fc.js"
+    "static/js/main.d391f111.js"
   ]
 }

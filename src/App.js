@@ -46,13 +46,13 @@ with Application in Concave and Convex Structures</b></a>,<br/>
           <br/><br/>
           <MathJax>{"\\(\\frac{\\text{Arc Length AB}}{\\text{Arc Length CD}} =  \\frac{\\text{Chord Length AB}}{\\text{Chord Length CD}} \\)"}</MathJax>
           </li>
-
+          <br/>
           <li>
           <b><u>Arc and Area Theorem</u></b>: For arc AB and arc CD having same arc-angles taken from circles with radius r<sub>1</sub> and r<sub>2</sub> respectively. The ratio of the areas enclosed after joining the endpoints of the individual arcs (by a line segment) is equal to the square of the ratio of their individual arc-lengths.
           <br/><br/>
           <MathJax>{"\\(\\frac{\\text{Area enclosed by Arc AB and Chord AB}}{\\text{Area enclosed by Arc CD and Chord CD}} =  \\{\\frac{\\text{Arc Length AB}}{\\text{Arc Length CD}}\\}^2 \\)"}</MathJax>
           </li>
-
+          <br/>
           <li>
           <b><u>Arc Ratio Theorem</u></b>: For arc AB and arc CD having same arc-angles taken from circles with radius r<sub>1</sub> and r<sub>2</sub> respectively.  The following
           mathematical expression is always true:
