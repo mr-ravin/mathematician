@@ -27,8 +27,12 @@ function App() {
      <ol>
      <li>Published paper: <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf">click here</a></li>
      <li>Published paper (DOI Link): <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.51483/IJPAMR.1.1.2021.55-57">click here</a></li>
-     <li>Fetch paper from github: <a target="_blank" rel="noopener noreferrer" href={PaperTheorem10}>click here</a></li>
-     <li>Github repository: <a target="_blank" rel="noopener noreferrer" href="https://github.com/mr-ravin/theorem10">source code</a></li>
+     <li>Paper on github.com: <a target="_blank" rel="noopener noreferrer" href={PaperTheorem10}>click here</a></li>
+     <li>Paper on Research Gate: <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/publication/355795996_A_Theorem_on_Numbers_of_the_Form_10x">click here</a></li>
+     <li>Preprint on SSRN: <a target="_blank" rel="noopener noreferrer" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3460506">click here</a></li>
+     <li>Preprint on osf.io: <a target="_blank" rel="noopener noreferrer" href="https://osf.io/ku45y">click here</a></li>
+     <li>Preprint on Research Gate: <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/publication/336386729_A_Theorem_on_Numbers_of_the_Form_10x">click here</a></li>
+     <li>Github repository (python code): <a target="_blank" rel="noopener noreferrer" href="https://github.com/mr-ravin/theorem10">source code</a></li>
      </ol>
      </p>      
     </li>
@@ -71,7 +75,11 @@ with Application in Concave and Convex Structures</b></a>,<br/>
      <ol>
      <li>Published paper: <a target="_blank" rel="noopener noreferrer" href="https://www.svedbergopen.com/files/1686285460_3_IJPAMR202208151658IN_(46-51).pdf">click here</a></li>
      <li>Published paper (DOI Link): <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.51483/IJPAMR.3.xx.2023.46-51">click here</a></li>
-     <li>Fetch paper from github: <a target="_blank" rel="noopener noreferrer" href={PaperTheoremArcs}>click here</a></li>
+     <li>Paper on github.com: <a target="_blank" rel="noopener noreferrer" href={PaperTheoremArcs}>click here</a></li>
+     <li>Paper on Research Gate: <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/publication/371418079_Theorems_for_Arcs_of_Different_Circles_Having_Same_Arc-Angles_with_Application_in_Concave_and_Convex_Structures">click here</a></li>
+     <li>Preprint on SSRN: <a target="_blank" rel="noopener noreferrer" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4474362">click here</a></li>
+     <li>Preprint on osf.io: <a target="_blank" rel="noopener noreferrer" href="https://osf.io/s2azj">click here</a></li>
+     <li>Preprint on Research Gate: <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/publication/371713594_Theorems_for_Arcs_of_Different_Circles_having_Same_Arc-Angles_with_Application_in_Concave_and_Convex_Structures">click here</a></li>
      </ol>
      </p>      
 
