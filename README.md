@@ -36,7 +36,7 @@ Mathematician's Life
           <br/><br/>
           <u><i>Proposed Theorems</i></u>: <br/><br/>
           We have proposed three theorems for arcs from different circles with the same arc angle &Theta; (in degree unit) along with
-          their mathematical proofs.<br/>
+          their mathematical proofs.<br/><br/>
           <ol>
           <li>
           <b><u>Arc and Chord Length Theorem</u></b>: Arcs AB and CD having same arc-angles taken from circles with radius r<sub>1</sub> and r<sub>2</sub> respectively. The ratio of the arclengths is equal to the ratio of the line segments obtained after joining the endpoints of the individual arc.
