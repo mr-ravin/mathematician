@@ -31,6 +31,9 @@ Mathematician's Life
           DOI Number: <a href="https://www.svedbergopen.com/files/1686285460_3_IJPAMR202208151658IN_(46-51).pdf">10.51483/IJPAMR.3.1.2023.46-51</a>
           <p align="justify"><b> Abstract:</b> Arcs are one of the fundamental concepts of circles and are also used in real-life objects such as bridges, jewelleries, buildings, tools etc. In this paper we have proposed theorems for arcs of different circles having the same arc-angles. The proposed theorems have applications in concave/convex surfaces such as lenses and mirrors, buildings, infrastructures, bridges, jewelleries, and mechanical tools such as a sickle.</p>
           <p align="justify">
+          <img src="https://raw.githubusercontent.com/mr-ravin/mathematician/main/circle.jpg" alt="Figure 1: Circles with arcs of the same arc-angles." style="max-width: 100%; height: auto;"><br/>
+          <center>Figure 1: Circles with arcs of the same arc-angles.</center>
+          <br/><br/>
           <u><i>Proposed Theorems</i></u>: <br/><br/>
           We have proposed three theorems for arcs from different circles with the same arc angle &Theta; (in degree unit) along with
           their mathematical proofs.<br/>
