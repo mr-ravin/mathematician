@@ -38,18 +38,14 @@ Mathematician's Life
           <li>
           <b><u>Arc and Chord Length Theorem</u></b>: Arcs AB and CD having same arc-angles taken from circles with radius r<sub>1</sub> and r<sub>2</sub> respectively. The ratio of the arclengths is equal to the ratio of the line segments obtained after joining the endpoints of the individual arc.
           <br/><br/>
-\[
-\frac{\text{Arc Length AB}}{\text{Arc Length CD}} = \frac{\text{Chord Length AB}}{\text{Chord Length CD}}
-\]
+$\frac{\text{Arc Length AB}}{\text{Arc Length CD}} = \frac{\text{Chord Length AB}}{\text{Chord Length CD}}$
           <br/>
           </li>
           <br/>
           <li>
           <b><u>Arc and Area Theorem</u></b>: For arc AB and arc CD having same arc-angles taken from circles with radius r<sub>1</sub> and r<sub>2</sub> respectively. The ratio of the areas enclosed after joining the endpoints of the individual arcs (by a line segment) is equal to the square of the ratio of their individual arc-lengths.
           <br/><br/>
-\[
-\frac{\text{Area enclosed by Arc AB and Chord AB}}{\text{Area enclosed by Arc CD and Chord CD}} = \left( \frac{\text{Arc Length AB}}{\text{Arc Length CD}} \right)^2
-\]
+$\frac{\text{Area enclosed by Arc AB and Chord AB}}{\text{Area enclosed by Arc CD and Chord CD}} = \left( \frac{\text{Arc Length AB}}{\text{Arc Length CD}} \right)^2$
           <br/>
           </li>
           <br/>
@@ -57,9 +53,7 @@ Mathematician's Life
           <b><u>Arc Ratio Theorem</u></b>: For arc AB and arc CD having same arc-angles taken from circles with radius r<sub>1</sub> and r<sub>2</sub> respectively.  The following
           mathematical expression is always true:
           <br/><br/>
-\[ 
-\frac{\text{Area enclosed by arc AB and chord AB}}{\text{Area enclosed by arc CD and chord CD}} = \left(\frac{\text{Arc Length AB}}{\text{Arc Length CD}}\right)^2 = \left(\frac{\text{Chord Length AB}}{\text{Chord Length CD}}\right)^2 
-\]         
+$\frac{\text{Area enclosed by arc AB and chord AB}}{\text{Area enclosed by arc CD and chord CD}} = \left(\frac{\text{Arc Length AB}}{\text{Arc Length CD}}\right)^2 = \left(\frac{\text{Chord Length AB}}{\text{Chord Length CD}}\right)^2$
           <br/>
           </li>
           </ol>
