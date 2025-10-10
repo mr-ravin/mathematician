@@ -5,7 +5,7 @@ Mathematician's Life
      <li><a href="https://mr-ravin.github.io/mathematician/static/media/AdaptiveBaseRepresentationTheorem.a364e9ff211253219735.pdf" className="colorset" target="_blank" rel="noopener noreferrer"><b>Adaptive Base Representation Theorem: An Alternative to Binary Number System</b></a>,<br/>
       DOI Number: <a a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1007/978-981-96-7499-2_37">10.1007/978-981-96-7499-2_37</a>
           <p align="justify"><b> Abstract:</b> This paper introduces the Adaptive Base Representation (ABR) Theorem and proposes a novel number system that offers a structured alternative to the binary number system for digital computers. The ABR number system enables each decimal number to be represented uniquely and using the same number of bits, n, as the binary encoding. Theoretical foundations and mathematical formulations demonstrate that ABR can encode the same integer range as binary, validating its potential as a viable alternative. Additionally, the ABR number system is compatible with existing data compression algorithms like Huffman coding and arithmetic coding, as well as error detection and correction mechanisms such as Hamming codes. We further explore practical applications, including digital steganography, to illustrate the utility of ABR in information theory and digital encoding, suggesting that the ABR number system could inspire new approaches in digital data representation and computational design.<br/><br/>
-<b><i><u>Adaptive Base Representation Theorem:</u></i></b>
+<b><i><u>Adaptive Base Representation Theorem:</u></i></b><br/>
 For a given positive integer n, the set of numbers representable with n bits in the Binary Number System is identical to the set of numbers representable with n bits in the Adaptive Base Representation Number System.
 
 Formally,
@@ -15,6 +15,7 @@ Number System, and **A**n denote the set of numbers representable using n bits i
 the Adaptive Base Representation Number System, where n is a positive integer.
 Then,<br/>
 **B**n = **A**n, ∀n ≥ 1
+<br/>
 <br/>
 <br/>
 <b>Cite as:</b> Kumar, R. (2026). Adaptive Base Representation Theorem: An Alternative to Binary Number System. In: Senjyu, T., So-In, C., Joshi, A. (eds) Smart Trends in Computing and Communications. SmartCom 2025. Lecture Notes in Networks and Systems, vol 1458. Springer, Singapore. https://doi.org/10.1007/978-981-96-7499-2_37
