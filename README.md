@@ -2,12 +2,42 @@ Mathematician's Life
 ---- 
 <p align="justify">
 <ol>
+     <li><a href="https://mr-ravin.github.io/mathematician/static/media/AdaptiveBaseRepresentationTheorem.a364e9ff211253219735.pdf" className="colorset" target="_blank" rel="noopener noreferrer"><b>Adaptive Base Representation Theorem: An Alternative to Binary Number System</b></a>,<br/>
+      DOI Number: <a a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1007/978-981-96-7499-2_37">10.1007/978-981-96-7499-2_37</a>
+          <p align="justify"><b> Abstract:</b> This paper introduces the Adaptive Base Representation (ABR) Theorem and proposes a novel number system that offers a structured alternative to the binary number system for digital computers. The ABR number system enables each decimal number to be represented uniquely and using the same number of bits, n, as the binary encoding. Theoretical foundations and mathematical formulations demonstrate that ABR can encode the same integer range as binary, validating its potential as a viable alternative. Additionally, the ABR number system is compatible with existing data compression algorithms like Huffman coding and arithmetic coding, as well as error detection and correction mechanisms such as Hamming codes. We further explore practical applications, including digital steganography, to illustrate the utility of ABR in information theory and digital encoding, suggesting that the ABR number system could inspire new approaches in digital data representation and computational design.<br/><br/>
+<b><i><u>Adaptive Base Representation Theorem:</u></i></b>
+For a given positive integer n, the set of numbers representable with n bits in the Binary Number System is identical to the set of numbers representable with n bits in the Adaptive Base Representation Number System.
+
+Formally,
+
+Let **B**n denote the set of numbers representable using n bits in the Binary
+Number System, and **A**n denote the set of numbers representable using n bits in
+the Adaptive Base Representation Number System, where n is a positive integer.
+Then,<br/>
+**B**n = **A**n, ∀n ≥ 1
+<br/>
+<br/>
+<b>Cite as:</b> Kumar, R. (2026). Adaptive Base Representation Theorem: An Alternative to Binary Number System. In: Senjyu, T., So-In, C., Joshi, A. (eds) Smart Trends in Computing and Communications. SmartCom 2025. Lecture Notes in Networks and Systems, vol 1458. Springer, Singapore. https://doi.org/10.1007/978-981-96-7499-2_37
+<br/>
+     <p align="justify">
+     <u>Resources</u>:
+     <br/>
+     <ol>
+     <li>Published paper: <a target="_blank" rel="noopener noreferrer" href="https://link.springer.com/chapter/10.1007/978-981-96-7499-2_37">click here</a></li>
+     <li>Published paper (DOI Link): <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1007/978-981-96-7499-2_37">click here</a></li>
+     <li>Paper on github.com: <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/mathematician/static/media/AdaptiveBaseRepresentationTheorem.a364e9ff211253219735.pdf">click here</a></li>
+     <li>Preprint on SSRN: <a target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.2139/ssrn.5574138">click here</a></li>
+     <li>Preprint on Research Gate: <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/publication/396256763_Adaptive_Base_Representation_Theorem_An_Alternative_to_Binary_Number_System">click here</a></li>
+     </ol>
+     </p>  
+
+</p>     
      <li><a href="https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf" className="colorset" target="_blank" rel="noopener noreferrer"><b>A Theorem on Numbers of the Form 10<sup>x</sup></b></a>,<br/>
       DOI Number: <a href="https://doi.org/10.51483/IJPAMR.1.1.2021.55-57">10.51483/IJPAMR.1.1.2021.55-57</a>
           <p align="justify"><b> Abstract:</b> Number theory is one of the core branches of pure mathematics. It has played an important role in the study of natural numbers. In this paper, we are presenting a theorem on the numbers of form 10<sup>x</sup>, where x ∊ Z<sup>+</sup>. The proposed theorem have a major application in computer science. It can be used to predict ‘n’ bits which will always represent more than 10<sup>x</sup> total numbers. We proved that the nature of the ‘n’ bits is always one of the forms 10i, 10i + 4, or 10i + 7, where i ∊ Z<sup>+</sup>. 
           </p>
           <p>
-          <u><i>Proposed Theorem:</i></u>
+          <u><i><b>Proposed Theorem</b>:</i></u>
           <br/><br/>
           2<sup>(10⌊x/3⌋+4((x mod 3) mod 2)+7⌊(x mod 3)/2⌋)</sup> &gt; 10<sup>x</sup>  ; ∀ x ∈ Z<sup>+</sup>. Here, x is any positive integer.
           </p>
