@@ -51,6 +51,7 @@ Then,<br/>
      <li>Published paper: <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf">click here</a></li>
      <li>Published paper (DOI Link): <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.51483/IJPAMR.1.1.2021.55-57">click here</a></li>
      <li>Paper on github.com: <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf">click here</a></li>
+     <li> Paper on archive.org: <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/a-theorem-on-numbers-of-the-form-10x">click here</a></li>
      <li>Paper on Research Gate: <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/publication/355795996_A_Theorem_on_Numbers_of_the_Form_10x">click here</a></li>
      <li>Preprint on SSRN: <a target="_blank" rel="noopener noreferrer" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3460506">click here</a></li>
      <li>Preprint on osf.io: <a target="_blank" rel="noopener noreferrer" href="https://osf.io/ku45y">click here</a></li>
@@ -101,6 +102,7 @@ $\frac{\text{Area enclosed by arc AB and chord AB}}{\text{Area enclosed by arc C
      <li>Published paper: <a target="_blank" rel="noopener noreferrer" href="https://www.svedbergopen.com/files/1686285460_3_IJPAMR202208151658IN_(46-51).pdf">click here</a></li>
      <li>Published paper (DOI Link): <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.51483/IJPAMR.3.xx.2023.46-51">click here</a></li>
      <li>Paper on github.com: <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/mathematician/static/media/TheoremsForArcsOfDifferentCircles.3d3f1b808d7cc9312931.pdf">click here</a></li>
+     <li> Paper on archive.org: <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/theorems-for-arcs-of-different-circles-with-same-arc-angles">click here</a></li>
      <li>Paper on Research Gate: <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/publication/371418079_Theorems_for_Arcs_of_Different_Circles_Having_Same_Arc-Angles_with_Application_in_Concave_and_Convex_Structures">click here</a></li>
      <li>Preprint on SSRN: <a target="_blank" rel="noopener noreferrer" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4474362">click here</a></li>
      <li>Preprint on osf.io: <a target="_blank" rel="noopener noreferrer" href="https://osf.io/s2azj">click here</a></li>
