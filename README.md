@@ -28,6 +28,7 @@ Then,<br/>
      <li>Published paper (DOI Link): <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1007/978-981-96-7499-2_37">click here</a></li>
      <li>Paper on archive.org: <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/adaptive-base-representation-theorem/AdaptiveBaseRepresentationTheorem/">click here</a></li>
      <li>Preprint on github.com: <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/mathematician/static/media/AdaptiveBaseRepresentationTheorem.a364e9ff211253219735.pdf">click here</a></li>
+     <li>Preprint on arxiv.org: <a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2510.15099">click here</a></li>
      <li>Preprint on SSRN: <a target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.2139/ssrn.5574138">click here</a></li>
      <li>Preprint on Research Gate: <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/publication/396256763_Adaptive_Base_Representation_Theorem_An_Alternative_to_Binary_Number_System">click here</a></li>
      </ol>
@@ -51,7 +52,7 @@ Then,<br/>
      <li>Published paper: <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf">click here</a></li>
      <li>Published paper (DOI Link): <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.51483/IJPAMR.1.1.2021.55-57">click here</a></li>
      <li>Paper on github.com: <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf">click here</a></li>
-     <li> Paper on archive.org: <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/a-theorem-on-numbers-of-the-form-10x">click here</a></li>
+     <li>Paper on archive.org: <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/a-theorem-on-numbers-of-the-form-10x">click here</a></li>
      <li>Paper on Research Gate: <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/publication/355795996_A_Theorem_on_Numbers_of_the_Form_10x">click here</a></li>
      <li>Preprint on SSRN: <a target="_blank" rel="noopener noreferrer" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3460506">click here</a></li>
      <li>Preprint on osf.io: <a target="_blank" rel="noopener noreferrer" href="https://osf.io/ku45y">click here</a></li>
